@@ -1,0 +1,7 @@
+base   ldapdisplay
+author Dirk Peters
+email  peters@code-maze.de
+date   2017-03-27
+name   ldapdisplay plugin
+desc   This plugin uses a service user to log into any LDAP system. It then displays a given LDAP request as a table inside any Page.
+url    https://github.com/3Fish/ldapdisplay
